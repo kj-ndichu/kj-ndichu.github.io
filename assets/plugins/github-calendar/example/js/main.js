@@ -1,3 +1,4 @@
-GitHubCalendar(".calendar", "IonicaBizau", {
-    responsive: true
+GitHubCalendar(".calendar", "kj-ndichu", {
+    responsive: true,
+    tooltips: true
 });
